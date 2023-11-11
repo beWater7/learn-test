@@ -1,4 +1,0 @@
-hello world
-test for github!
-git in linux！
-test in 2023
