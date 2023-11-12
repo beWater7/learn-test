@@ -6,7 +6,10 @@
 > https://blog.csdn.net/ArthurCaoMH/article/details/89300713
 > 需要安装markdown 插件有五个：
 > markdown (pdf Toc math preview-enhanced all-in-one)
-##![Alt text](%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E9%A3%8E%E6%99%AF4k%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B83840x2160_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg)
+
+<p align="center">
+<img alt="a test picture" src="../img/阿尔卑斯山风景4k高清壁纸3840x2160_彼岸图网.jpg" width="600">
+
 ## 3、如何远程连接到Ubuntu
 >1. 首先需要确保你的ubuntu下已经安装了openssh库
 >2. 修改vi /etc/ssh/sshd_config，PermitRemoteLogin yes
